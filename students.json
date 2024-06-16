@@ -32,3 +32,40 @@
     }
   ]
 }
+
+//added this code as part of develop branch
+
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "sharath",
+      "location": "Bethuru",
+      "phone": "8790868502",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "patil",
+      "location": "kashipura",
+      "phone": "9845601607",
+      "courses": [
+        "Appium",
+        "Katalon"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "yaduveer",
+      "location": "Blore",
+      "phone": "9844033399",
+      "courses": [
+        "c++",
+        "Karate"
+      ]
+    }
+  ]
+}
