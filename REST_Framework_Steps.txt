@@ -1,0 +1,15 @@
+Pre requisites:
+
+1. Create a Maven project( select maven-archetype-quickstart)
+2. update pom.xml with required dependencies
+3. create folder structure
+
+4. create Routes.java class which contains all the URLs
+5. create userEndPoint.java class which contains CRUD method implementaion
+6. Create test cases
+7. Create test data driven test cases
+   prepare excel sheet with test data
+   use Excel utility file
+   use apache poi dependency
+8.
+

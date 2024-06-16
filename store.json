@@ -1,0 +1,28 @@
+{
+ "book":[
+   {
+	"author":"Sharath",
+	"category":"reference",
+	"price":270,
+	"title":"Preach me good"
+   },
+   {
+	"author":"Sowmya",
+	"category":"guidance",
+	"price":197,
+	"title":"How to be contentful"
+   },
+   {
+	"author":"Shanthaveerappa",
+	"category":"academy",
+	"price":1200,
+	"title":"Program it your way"
+   },
+   {
+	"author":"Latha",
+	"category":"reference",
+	"price":990,
+	"title":"Brighter side of the Moon"
+   }
+  ]
+}
